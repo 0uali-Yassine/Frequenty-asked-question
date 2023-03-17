@@ -1,0 +1,15 @@
+.para1{
+    display: none;
+}
+.para2{
+    display: none;
+}
+.para3{
+    display: none;
+}
+.pb{
+    display: block;
+}
+.iconMinus1,.iconMinus2,.iconMinus3{
+    display: none;
+}
